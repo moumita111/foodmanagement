@@ -11,6 +11,8 @@ Django 5.0.4
 
 Bootstrap 5.3.3
 
+tailwind CSS
+
 HTML 5
 ## Run Locally
 
