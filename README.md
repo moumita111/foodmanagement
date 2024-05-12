@@ -19,13 +19,13 @@ HTML 5
 Clone the project
 
 ```bash
-  git clone https://github.com/moumita111/waste-food-management
+  git clone https://github.com/moumita111/foodmanagement
 ```
 
 Go to the project directory
 
 ```bash
-  cd wastefoodmanagement
+  cd foodmanagement
 ```
 
 Install dependencies
